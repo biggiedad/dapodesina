@@ -47,7 +47,7 @@ $string_exp = "/^[A-Za-z .'-]+$/";
           }
 
 $from = "Dapo Desina  <noreply@dapodesina.com>";
-$to = "Dapo Desina Webmaster <info@effluxcompany.com>";
+$to = "Dapo Desina Webmaster <info@dapodesina.com>";
 $to = "$Email_from";
 $subject = "From dapodesina.com Contact Form";
 $body = "Hi, new entry from the CONTACT US FORM of www.dapodesina.com website<br><br>  
